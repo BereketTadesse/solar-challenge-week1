@@ -1,4 +1,4 @@
-# Solar Challenge Week 
+# solar-challenge-week1
 
 This repository contains the setup for the Solar Challenge Week 1 project, focusing on Git and environment configuration.
 
