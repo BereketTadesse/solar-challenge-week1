@@ -1,0 +1,17 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Data
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
